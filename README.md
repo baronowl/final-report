@@ -11,3 +11,9 @@
    Link：https://pan.baidu.com/s/1a7wi9eR-LY07RXa0GnyfGw?pwd=m675 
    Extract code：m675 
 
+6. The floder "datapreprocessing" contain the code to pre-processing the ECG data. Run file "ECG_TXT.py" first, then "preprocess.py". Finally, run"dataset.py" to generate the feature data sets.
+
+    To get the original database which is the  "Physionet Apnea-ECG Database", you can download from following link if you can not download it from offcial website.
+    
+    Link：https://pan.baidu.com/s/11yopWqMkkA8U_UzN8XQZkQ?pwd=6hw6 
+    Extract code：6hw6 
