@@ -83,7 +83,7 @@ def trainning_model():
     print("getting data...")
     X_train, Y_train, X_test, Y_test = data()
 
-    model = create_lstm_cnn_model(input_shape=(240, 3))
+    model = create_lstm_cnn_model(input_shape=(240, 2))
     fig_path = file_path
     model_path = file_path + "/model"
 
